@@ -52,6 +52,7 @@ Zutaten für 5 Poertionen
 Tipp zum Rezept
 ```
 __Ghormeh Sabzi__ mit Basmati Reis und Safranreis und friesche Kräuter servieren. Das persische Gericht schmeckt am nächsten Tag noch besser.
+
 __Vegan__ kann man das auch kochen! Statt Fleich verdoppelt man die Kidney Bohnen.
 
 ![vegan-ghormeh-sabzi-5-1024x682.jpg](/assets/vegan-ghormeh-sabzi-5-1024x682.jpg.webp)
