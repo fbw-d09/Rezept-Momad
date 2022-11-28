@@ -1,5 +1,5 @@
 # Rezept-Momad
-##Ghormeh Sabzi
+## Ghormeh Sabzi
 
 __Ghormeh Sabzi__ _(ßabsie)_ ist einer der älteste Persisches Essen.
 
@@ -34,9 +34,9 @@ Zutaten für 5 Poertionen
 |Salz|1	TL|
 |Pfeffer, frisch gemahlen|1	TL|
 |Lorbeerblatt|1 Stk|
-#####**Kidney Bhonen* sollen ab letzer Nacht in wasser ziehen lassen.
+##### **Kidney Bhonen* sollen ab letzer Nacht in wasser ziehen lassen.
 ---
-###Zubereitung
+### Zubereitung
 1. Zuerst das Fleisch waschen, mit Küchenpapier trocken tupfen und in ca. 2 cm große Würfel schneiden. Zwiebel sowie Knoblauch schälen und fein hacken.
 2. Nun 25 ml Ghee zusammen mit den Zwiebel- und Knoblauchstücken in einen Topf geben und mit Kurkuma bestreuen.
 3. Danach die Fleischstücke hinzufügen und bei starker Hitze von allen Seiten gut anbraten - dabei immer wieder rühren.
