@@ -1,6 +1,6 @@
 # Persische Gericht 
 
-![800px-Flag_of_Iran_before_1979_Revolution_(Pahlavi_Monarchy).svg](https://i.imgur.com/t17kpeB.png)
+![flag_of_Iran_(1964–1980).svg](https://i.imgur.com/jNcGUYh.png)
 
 ## Ghormeh Sabzi
 
