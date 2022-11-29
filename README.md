@@ -13,7 +13,6 @@ Die vorbereitung und Koch Zeit kann bis 6 Stunden Dauern
 __Hier das Rezept für das Traditionsgericht.__
 
 ```
-
 Zutaten für 5 Poertionen
 ```
 
